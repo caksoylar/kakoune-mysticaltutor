@@ -21,37 +21,43 @@ Or you can download `mysticaltutor.kak` to your `~/.config/kak/colors/` folder a
 
 ## See also
 
-[ayu-kak](https://github.com/Icantjuddle/ayu-kak)
+### powerline.kak theme
 
-[base16-gruvbox](https://github.com/andreyorst/base16-gruvbox.kak)
+A port of this colorscheme for [powerline.kak](https://gitlab.com/andreyorst/powerline.kak) is available at [jordan-yee/kakoune-mysticaltutor-powerline](https://github.com/jordan-yee/kakoune-mysticaltutor-powerline).
 
-[base16-kakoune](https://github.com/leira/base16-kakoune)
+### Other Kakoune colorschemes
 
-[beryl.kak](https://github.com/ftonneau/beryl.kak)
+- [ayu-kak](https://github.com/Icantjuddle/ayu-kak)
 
-[cosy-gruvbox.kak](https://github.com/Anfid/cosy-gruvbox.kak)
+- [base16-gruvbox](https://github.com/andreyorst/base16-gruvbox.kak)
 
-[darkokai.kak](https://github.com/markolenik/darkokai.kak)
+- [base16-kakoune](https://github.com/leira/base16-kakoune)
 
-[dracula](https://github.com/dracula/kakoune)
+- [beryl.kak](https://github.com/ftonneau/beryl.kak)
 
-[garbo](https://github.com/gustavo-hms/garbo)
+- [cosy-gruvbox.kak](https://github.com/Anfid/cosy-gruvbox.kak)
 
-[kakoune-colors](https://github.com/Delapouite/kakoune-colors)
+- [darkokai.kak](https://github.com/markolenik/darkokai.kak)
 
-[kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
+- [dracula](https://github.com/dracula/kakoune)
 
-[kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
+- [garbo](https://github.com/gustavo-hms/garbo)
 
-[nord-kakoune](https://github.com/rubberydub/nord-kakoune)
+- [kakoune-colors](https://github.com/Delapouite/kakoune-colors)
 
-[primer.kak](https://github.com/evanrelf/primer.kak)
+- [kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
 
-[shirotelin-kakoune](https://github.com/esessoms/shirotelin-kakoune)
+- [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
 
-[torchwood](https://github.com/codymlewis/torchwood)
+- [nord-kakoune](https://github.com/rubberydub/nord-kakoune)
 
-[ultrasonic](https://github.com/Jackojc/ultrasonic)
+- [primer.kak](https://github.com/evanrelf/primer.kak)
+
+- [shirotelin-kakoune](https://github.com/esessoms/shirotelin-kakoune)
+
+- [torchwood](https://github.com/codymlewis/torchwood)
+
+- [ultrasonic](https://github.com/Jackojc/ultrasonic)
 
 ## License
 
