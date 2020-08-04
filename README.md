@@ -6,9 +6,9 @@ A port of the [Mystical Tutor colorscheme](https://github.com/caksoylar/vim-myst
 
 There are small differences to the Vim version, such fewer background changes for highlighting selected items in menus. Themes for some terminals and [tmux](https://tmux.github.io) are also available in the [main Mystical Tutor repo](https://github.com/caksoylar/vim-mysticaltutor/tree/master/terminal).
 
-A major feature of this colorscheme is its use of alpha-blending for selections, thus being able to preserve syntax highlighting in selected text as in the screenshot above. However this is only available in the development versions of Kakoune after commit [ccecd5b](https://github.com/mawww/kakoune/commit/ccecd5bd8e871b7aa89568609fd4ba7c50fd52ad) that support `rgba` color definitions.
+A major feature of this colorscheme is its use of alpha-blending for selections, thus being able to preserve syntax highlighting in selected text as in the screenshot above. However this is only available in the [v2020.08.04 release](https://github.com/mawww/kakoune/releases/tag/v2020.08.04) or development versions of Kakoune after commit [ccecd5b](https://github.com/mawww/kakoune/commit/ccecd5bd8e871b7aa89568609fd4ba7c50fd52ad) that support `rgba` color definitions.
 
-Another version of the colorscheme `mysticaltutor-plain.kak` is included for use with older versions such as the [v2020.01.16 release](https://github.com/mawww/kakoune/releases/tag/v2020.01.16).
+Another version of the colorscheme `mysticaltutor-plain.kak` is included for use with older Kakoune versions.
 
 ## Installation
 
@@ -46,6 +46,8 @@ A port of this colorscheme for [powerline.kak](https://gitlab.com/andreyorst/pow
 - [kakoune-colors](https://github.com/Delapouite/kakoune-colors)
 
 - [kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
+
+- [kakoune-plain](https://github.com/zkmrgirish/kakoune-plain)
 
 - [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
 
