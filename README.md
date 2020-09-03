@@ -6,13 +6,13 @@ A port of the [Mystical Tutor colorscheme](https://github.com/caksoylar/vim-myst
 
 There are small differences to the Vim version, such fewer background changes for highlighting selected items in menus. Themes for some terminals and [tmux](https://tmux.github.io) are also available in the [main Mystical Tutor repo](https://github.com/caksoylar/vim-mysticaltutor/tree/master/terminal).
 
-A major feature of this colorscheme is its use of alpha-blending for selections, thus being able to preserve syntax highlighting in selected text as in the screenshot above. However this is only available in the [v2020.08.04 release](https://github.com/mawww/kakoune/releases/tag/v2020.08.04) or development versions of Kakoune after commit [ccecd5b](https://github.com/mawww/kakoune/commit/ccecd5bd8e871b7aa89568609fd4ba7c50fd52ad) that support `rgba` color definitions.
+A major feature of this colorscheme is its use of alpha-blending for selections, thus being able to preserve syntax highlighting in selected text as in the screenshot above. However this is only available after the [v2020.08.04 release](https://github.com/mawww/kakoune/releases/tag/v2020.08.04) which supports `rgba` color definitions.
 
 Another version of the colorscheme `mysticaltutor-plain.kak` is included for use with older Kakoune versions.
 
 ## Installation
 
-Using [plug.kak](https://gitlab.com/andreyorst/plug.kak):
+Using [plug.kak](https://github.com/robertmeta/plug.kak):
 ```
 plug "caksoylar/kakoune-mysticaltutor" theme %{ colorscheme mysticaltutor }
 ```
@@ -23,9 +23,11 @@ Or you can download `mysticaltutor.kak` to your `~/.config/kak/colors/` folder a
 
 ### powerline.kak theme
 
-A port of this colorscheme for [powerline.kak](https://gitlab.com/andreyorst/powerline.kak) is available at [jordan-yee/kakoune-mysticaltutor-powerline](https://github.com/jordan-yee/kakoune-mysticaltutor-powerline).
+A port of this colorscheme for [powerline.kak](https://github.com/jdugan6240/powerline.kak) is available at [jordan-yee/kakoune-mysticaltutor-powerline](https://github.com/jordan-yee/kakoune-mysticaltutor-powerline).
 
 ### Other Kakoune colorschemes
+
+- [kakoune-mysticaltutor](https://github.com/caksoylar/kakoune-mysticaltutor)
 
 - [ayu-kak](https://github.com/Icantjuddle/ayu-kak)
 
