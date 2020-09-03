@@ -27,40 +27,23 @@ A port of this colorscheme for [powerline.kak](https://github.com/jdugan6240/pow
 
 ### Other Kakoune colorschemes
 
-- [kakoune-mysticaltutor](https://github.com/caksoylar/kakoune-mysticaltutor)
-
+- [kakoune-snow](https://github.com/caksoylar/kakoune-snow)
 - [ayu-kak](https://github.com/Icantjuddle/ayu-kak)
-
 - [base16-gruvbox](https://github.com/andreyorst/base16-gruvbox.kak)
-
 - [base16-kakoune](https://github.com/leira/base16-kakoune)
-
 - [beryl.kak](https://github.com/ftonneau/beryl.kak)
-
 - [cosy-gruvbox.kak](https://github.com/Anfid/cosy-gruvbox.kak)
-
 - [darkokai.kak](https://github.com/markolenik/darkokai.kak)
-
 - [dracula](https://github.com/dracula/kakoune)
-
 - [garbo](https://github.com/gustavo-hms/garbo)
-
 - [kakoune-colors](https://github.com/Delapouite/kakoune-colors)
-
 - [kakoune-material-theme](https://github.com/valerdi/kakoune-material-theme)
-
 - [kakoune-plain](https://github.com/zkmrgirish/kakoune-plain)
-
 - [kakoune-selenized](https://github.com/TeddyDD/kakoune-selenized)
-
 - [nord-kakoune](https://github.com/rubberydub/nord-kakoune)
-
 - [primer.kak](https://github.com/evanrelf/primer.kak)
-
 - [shirotelin-kakoune](https://github.com/esessoms/shirotelin-kakoune)
-
 - [torchwood](https://github.com/codymlewis/torchwood)
-
 - [ultrasonic](https://github.com/Jackojc/ultrasonic)
 
 ## License
